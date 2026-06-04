@@ -122,8 +122,8 @@ A Linear Regression predicts charges from risk factors. Linear Regression is cho
 
 | Finding | Value |
 |---------|-------|
-| **Smoker multiplier** | 3.8x — smokers cost $32,050 vs $8,441 |
-| **Highest-risk segment** | Obese smokers — $41,558 avg (3.1x portfolio avg) |
+| **Smoker multiplier** | 3.8x - smokers cost $32,050 vs $8,441 |
+| **Highest-risk segment** | Obese smokers - $41,558 avg (3.1x portfolio avg) |
 | **Age effect** | +95% from youngest to oldest band |
 | **Most expensive region** | Southeast ($14,735 avg) |
 | **Pricing model R²** | 0.807 — explains 81% of charge variance |
@@ -156,7 +156,7 @@ A Linear Regression predicts charges from risk factors. Linear Regression is cho
 
 Power BI dashboard focused on health insurance portfolio data, analyzing the impact of demographic factors, BMI, and smoker status on medical charges.
 
-[![Insurance Portfolio Dashboard](https://github.com/tuo-username/tuo-repo/raw/main/assets/insurance_dashboard_preview.png)](https://app.powerbi.com/view?r=eyJrIjoiN2MyNGE3YjQtODM1NS00YTJlLTg0NzMtMWZmOWE2ZmUxOGNmIiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9)
+[![Insurance Portfolio Dashboard](https://github.com/gibiai/Insurance_Claims_Analysis/raw/main/assets/insurance_dashboard_preview.png)]
 
 *📊 [Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2MyNGE3YjQtODM1NS00YTJlLTg0NzMtMWZmOWE2ZmUxOGNmIiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9)*
 ↗️ *Ctrl+click to open in a new tab*
