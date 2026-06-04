@@ -152,6 +152,14 @@ A Linear Regression predicts charges from risk factors. Linear Regression is cho
 
 ---
 
+## 📊 Power BI Dashboard
+
+Interactive dashboard across 3 pages: Churn Overview · Behavioral Risk Analysis · Retention Targeting
+
+**Interactive Dashboard:** [![Power BI](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMDg3NzA3NjUtNDMwMC00NjdlLWEwNWItOTNiNGQzNjZlYzA4IiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9&pageName=c7c98034ea1c684f28b1) ↗️ *Ctrl+click to open in a new tab*
+
+---
+
 ## Author
 
 **Gabriele De Carlo** — Data Analyst Portfolio Project, 2025
