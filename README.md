@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/insurance_preview.jpg" alt="Health Insurance Analysis" width="55%"/>
+</div>
+
 # 🏥 Insurance Charges - Actuarial Analysis & Premium Pricing
 
 ### Risk Segmentation · Loss Analysis · Premium Pricing Model
