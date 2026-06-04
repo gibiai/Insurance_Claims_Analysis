@@ -9,6 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-red.svg)](https://scikit-learn.org)
 [![SQLite](https://img.shields.io/badge/SQLite-SQL-green.svg)](https://sqlite.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![Excel](https://img.shields.io/badge/Excel-Report-217346?logo=microsoftexcel&logoColor=white)]()
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)]()
 
