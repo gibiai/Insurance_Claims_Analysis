@@ -1,0 +1,13 @@
+BUSINESS INSIGHTS — Insurance Charges Analysis
+==================================================
+
+1. Smokers cost 3.8x more than non-smokers ($32,050 vs $8,441). A significant premium loading for smokers is justified.
+
+2. Obese smokers are the highest-risk segment at $41,558 average charge: over 3x the portfolio average
+
+3. Charges grow 95% from the youngest to oldest age band ($9,201 → $17,903). Age-based pricing tiers are warranted.
+
+4. The Southeast region has the highest average charges ($14,735), suggesting mild regional risk adjustment.
+
+
+Pricing Model — R2: 0.807, MAE: $4,182
