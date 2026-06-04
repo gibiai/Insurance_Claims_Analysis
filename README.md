@@ -1,4 +1,4 @@
-# 🏥 Insurance Charges — Actuarial Analysis & Premium Pricing
+# 🏥 Insurance Charges - Actuarial Analysis & Premium Pricing
 
 ### Risk Segmentation · Loss Analysis · Premium Pricing Model
 
@@ -154,9 +154,12 @@ A Linear Regression predicts charges from risk factors. Linear Regression is cho
 
 ## 📊 Power BI Dashboard
 
-Interactive dashboard across 3 pages: Churn Overview · Behavioral Risk Analysis · Retention Targeting
+Power BI dashboard focused on health insurance portfolio data, analyzing the impact of demographic factors, BMI, and smoker status on medical charges.
 
-**Interactive Dashboard:** [![Power BI](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMDg3NzA3NjUtNDMwMC00NjdlLWEwNWItOTNiNGQzNjZlYzA4IiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9&pageName=c7c98034ea1c684f28b1) ↗️ *Ctrl+click to open in a new tab*
+[![Insurance Portfolio Dashboard](https://github.com/tuo-username/tuo-repo/raw/main/assets/insurance_dashboard_preview.png)](https://app.powerbi.com/view?r=eyJrIjoiN2MyNGE3YjQtODM1NS00YTJlLTg0NzMtMWZmOWE2ZmUxOGNmIiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9)
+
+*📊 [Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2MyNGE3YjQtODM1NS00YTJlLTg0NzMtMWZmOWE2ZmUxOGNmIiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9)*
+↗️ *Ctrl+click to open in a new tab*
 
 ---
 
