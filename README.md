@@ -156,9 +156,9 @@ A Linear Regression predicts charges from risk factors. Linear Regression is cho
 
 Power BI dashboard focused on health insurance portfolio data, analyzing the impact of demographic factors, BMI, and smoker status on medical charges.
 
-[![Insurance Portfolio Dashboard](https://github.com/gibiai/Insurance_Claims_Analysis/raw/main/assets/insurance_dashboard_preview.png)]
+![Insurance Portfolio Dashboard](https://github.com/gibiai/Insurance_Claims_Analysis/raw/main/assets/insurance_dashboard_preview.png)
 
-📊 [Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2MyNGE3YjQtODM1NS00YTJlLTg0NzMtMWZmOWE2ZmUxOGNmIiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9)
+📊 *[Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2MyNGE3YjQtODM1NS00YTJlLTg0NzMtMWZmOWE2ZmUxOGNmIiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9)*
 ↗️ *Ctrl+click to open in a new tab*
 
 ---
